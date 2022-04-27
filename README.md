@@ -2,20 +2,17 @@
 
 Offlines done in Software Engineering Sessional Course.
 
-1. OOP Basics
+### Design Patterns
+**Creational Desing Patterns** 
+  1. Builder Pattern 
+  2. Factory Pattern 
+  3. Abstract Factory Pattern 
+  4. Singleton Pattern 
 
-2. Creational Desing Patterns \
-  a. Builder Pattern \
-  b. Factory Pattern \
-  c. Abstract Factory Pattern \
-  d. Singleton Pattern 
+**Structural Design Patterns** 
+  1. Adapter Pattern 
+  2. Decorator Pattern 
 
-3. Structural Design Patterns \
-  a. Adapter Pattern \
-  b. Decorator Pattern \
-
-4. Behavioural Design Patterns \
-  a. Observer Pattern \
-  b. Mediator Pattern
-  
-5. Unit Testing
+**Behavioural Design Patterns** 
+  1. Observer Pattern 
+  2. Mediator Pattern
