@@ -1,6 +1,6 @@
 # CSE-308-Software-Engineering-Sessional
 
-Offlines done in Software Engineering Sessional Course.
+Assignments completed for Software Engineering Sessional Course.
 
 ### Design Patterns
 **Creational Desing Patterns** 
